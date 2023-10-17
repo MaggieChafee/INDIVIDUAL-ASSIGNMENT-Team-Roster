@@ -1,0 +1,62 @@
+{
+  "-NgvQc5mpBYpwy_k_fXy":
+    {"firebaseKey":"-NgvQc5mpBYpwy_k_fXy",
+    "name":"Tanner Selwyne",
+    "image":"http://dummyimage.com/215x100.png/5fa2dd/ffffff",
+    "role":"investigator ",
+    "uid":"7jpFR529BycuAmH0j0IKwqV648x1"},
+  "-NgvQc5nBUmtdcTvkFjt":
+    {"firebaseKey":"-NgvQc5nBUmtdcTvkFjt",
+    "name":"Charles McKinley", 
+    "image":"http://dummyimage.com/103x100.png/cc0000/ffffff",
+    "role":"investigator ",
+    "uid":"7jpFR529BycuAmH0j0IKwqV648x1"},
+  "-NgvQc5oG-YzU8wPUERh":
+    {"firebaseKey":"-NgvQc5oG-YzU8wPUERh",
+    "name":"Lazarus Byass",
+    "image":"http://dummyimage.com/229x100.png/dddddd/000000",
+    "role":"visitor - family member",
+    "uid":"7jpFR529BycuAmH0j0IKwqV648x1"},
+  "-NgvQc5pkTRBgSEKFBIq":
+    {"firebaseKey":"-NgvQc5pkTRBgSEKFBIq",
+    "name":"Katy Capelow",
+    "image":"http://dummyimage.com/163x100.png/ff4444/ffffff",
+    "role":"visitor - family member",
+    "uid":"7jpFR529BycuAmH0j0IKwqV648x1"},
+  "-NgvQc5qsfcejVr3nwxJ":
+    {"firebaseKey":"-NgvQc5qsfcejVr3nwxJ",
+    "name":"Nevile Obray",
+    "image":"http://dummyimage.com/158x100.png/dddddd/000000",
+    "role":"murderer",
+    "uid":"7jpFR529BycuAmH0j0IKwqV648x1"},
+  "-NgvQc5qsfcejVr3nwxK":
+    {"firebaseKey":"-NgvQc5qsfcejVr3nwxK",
+    "name":"Herb Westcar",
+    "image":"http://dummyimage.com/221x100.png/cc0000/ffffff",
+    "role":"murderer",
+    "uid":"7jpFR529BycuAmH0j0IKwqV648x1"},
+  "-NgvQc5qsfcejVr3nwxL":
+    {"firebaseKey":"-NgvQc5qsfcejVr3nwxL",
+    "name":"Cathi Leyland",
+    "image":"http://dummyimage.com/102x100.png/cc0000/ffffff",
+    "role":"resident",
+    "uid":"7jpFR529BycuAmH0j0IKwqV648x1"},
+  "-NgvQc5rFD_ockgYZpyg":
+    {"firebaseKey":"-NgvQc5rFD_ockgYZpyg",
+    "name":"Nolana Ishchenko",
+    "image":"http://dummyimage.com/203x100.png/5fa2dd/ffffff",
+    "role":"murderer",
+    "uid":"7jpFR529BycuAmH0j0IKwqV648x1"},
+  "-NgvQc5rFD_ockgYZpyh":
+    {"firebaseKey":"-NgvQc5rFD_ockgYZpyh",
+    "name":"Ema Claypole",
+    "image":"http://dummyimage.com/245x100.png/ff4444/ffffff",
+    "role":"visitor - friend",
+    "uid":"7jpFR529BycuAmH0j0IKwqV648x1"},
+  "-NgvQc5s4cODVgrzPCp_":
+    {"firebaseKey":"-NgvQc5s4cODVgrzPCp_",
+    "name":"Fernando Raynor",
+    "image":"http://dummyimage.com/208x100.png/cc0000/ffffff",
+    "role":"visitor - family member",
+    "uid":"7jpFR529BycuAmH0j0IKwqV648x1"}
+}
