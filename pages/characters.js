@@ -21,7 +21,12 @@ export default function ViewCharacters() {
 
   return (
     <>
-      <div id="characters-page">
+      <div
+        id="characters-page"
+        style={{
+          padding: '30px',
+        }}
+      >
         <Link href="/character/new" passHref>
           <Button>New Character</Button>
         </Link>
