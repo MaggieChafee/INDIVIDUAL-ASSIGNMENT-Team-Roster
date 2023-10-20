@@ -18,5 +18,45 @@ a {
 }
 
 body {
-  background-color: #f4f1de;
+  background-color: #774C60;
+  color:#1A1423;
+  padding: 10px;
+}
+
+.nav-link {
+  color:#EACDC2!important;
+}
+
+#charCard {
+  background-color: #1A1423 !important;
+  color: #EACDC2;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 5px;
+  border-color: #1A1423;
+}
+
+.btn {
+  background-color: #B75D69;
+  border-color: #B75D69;
+}
+
+h1 {
+  color: #EACDC2;
+  font-style: oblique;
+}
+
+#characters-page {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+#welcomeCard {
+  background-color: #1A1423 !important;
+  color: #EACDC2;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 5px;
+  border-color: #1A1423;
 }

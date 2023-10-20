@@ -12,8 +12,8 @@ function CharacterCard({ charObj, onUpdate }) {
   };
 
   return (
-    <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src={charObj.image} style={{ height: '100px', width: '180px' }} />
+    <Card id="charCard" style={{ width: '18rem' }}>
+      <Card.Img variant="top" src={charObj.image} />
       <Card.Body>
         <Card.Title>{charObj.name}</Card.Title>
         <Card.Text>{charObj.role}</Card.Text>
