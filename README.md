@@ -1,4 +1,4 @@
-# An Only Murders in the Building (Murder Mystery Party Roster) [![Netlify Status][![Netlify Status](https://api.netlify.com/api/v1/badges/42166a4e-28b5-49a8-9e14-9f40590520c8/deploy-status)](https://app.netlify.com/sites/murder-mystery-roster-mc/deploys)]
+# An Only Murders in the Building (Murder Mystery Party Roster) [![Netlify Status](https://api.netlify.com/api/v1/badges/42166a4e-28b5-49a8-9e14-9f40590520c8/deploy-status)](https://app.netlify.com/sites/murder-mystery-roster-mc/deploys)]
 
 ## Deployed Site
 Check it out [here](https://murder-mystery-roster-mc.netlify.app/)!
