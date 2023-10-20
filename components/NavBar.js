@@ -22,7 +22,7 @@ export default function NavBar() {
             <Link passHref href="/character/new">
               <Nav.Link>New Character</Nav.Link>
             </Link>
-            <Button class="btn" nClick={signOut}>Sign Out</Button>
+            <Button class="btn" onClick={signOut}>Sign Out</Button>
           </Nav>
         </Navbar.Collapse>
       </Container>
